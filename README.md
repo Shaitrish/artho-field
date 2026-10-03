@@ -5,6 +5,8 @@ Android app for marketing officers of organisations using [Artho](https://artho.
 **Download the latest version:**
 https://github.com/Shaitrish/artho-field/releases/latest/download/artho-field.apk
 
+**ব্যবহার নির্দেশিকা (Bangla user guide):** https://shaitrish.github.io/artho-field/
+
 Your admin enables your account at artho.app (Employee → Field officer) and gives you an app password.
 
 This repository only hosts the app downloads.
